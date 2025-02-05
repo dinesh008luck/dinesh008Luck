@@ -108,14 +108,11 @@ My expertise includes **ETL processes, Data Cleaning, Database Architecture Desi
 ---
 
 🚀 **Let's Connect & Collaborate!**  
-📩 Email: [Your Email]  
-🔗 GitHub: [Your GitHub Profile]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
+📩 Email: [Send Mail](dinesh008luck@gmail.com)
+🔗 GitHub: [GitHub Profile](https://github.com/dinesh008luck)  
+🔗 LinkedIn: [LinkedIn Profile](http://www.linkedin.com/in/dinesh-kumar-dbms52012a)
 
-📊 Passionate about **Data Science, Business Intelligence, and Automation**! Always open to new challenges and innovations.  
-💡 **Let’s build impactful solutions together!**
-
-
+📊 Passionate about **Data Science, Business Intelligence, and Automation**! Always open to new challenges and innovations.💡
 
 <!--
 **dinesh008luck/dinesh008Luck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
