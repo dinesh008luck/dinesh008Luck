@@ -106,11 +106,13 @@ My expertise includes **ETL processes, Data Cleaning, Database Architecture Desi
 ✅ **Python Project**: [First ML Pipeline Project](https://github.com/dinesh008luck/First-ML-Pipe-Line-Project-v.01)  
 
 ---
+🚀 **Let's Connect & Collaborate!**
 
-🚀 **Let's Connect & Collaborate!**  
-📩 Email: [Send Mail](dinesh008luck@gmail.com)
+📩 Email: [Send Mail](mailto:dinesh008luck@gmail.com)  
+📞 [Call Me](tel:+918800801721)  
+💬 [WhatsApp Me](https://wa.me/+918800801721)  
 🔗 GitHub: [GitHub Profile](https://github.com/dinesh008luck)  
-🔗 LinkedIn: [LinkedIn Profile](http://www.linkedin.com/in/dinesh-kumar-dbms52012a)
+🔗 LinkedIn: [LinkedIn Profile](http://www.linkedin.com/in/dinesh-kumar-dbms52012a)  
 
 📊 Passionate about **Data Science, Business Intelligence, and Automation**! Always open to new challenges and innovations.💡
 
