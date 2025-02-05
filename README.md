@@ -1,4 +1,5 @@
-# 📊 Data Analyst & BI Specialist
+# 👋 Dinesh Kumar 
+## 📊 Data Analyst & BI Specialist
 
 ## 👨‍💻 Professional Profile
 With **8 years of experience** in data management, analysis, and visualization, I specialize in working with large datasets to deliver **actionable insights**. Skilled in **Power BI, SQL, and Excel**, I create clear, impactful dashboards and reports that meet business needs.
@@ -88,14 +89,21 @@ My expertise includes **ETL processes, Data Cleaning, Database Architecture Desi
 ---
 
 ## 🌍 Languages
-🗣️ Hindi & English  
+🎧 Hindi & English  
 
 ---
 
 ## 📍 Personal Details
 📅 **DOB**: 24-05-1992  
-💍 **Marital Status**: Married  
-🏠 **Location**: Bangalore, India  
+👰 **Marital Status**: Married  
+🏡 **Location**: Bangalore, India  
+
+---
+
+## 💡 Projects
+✅ **SQL Project**: [SQL-SLSS Report](https://github.com/dinesh008luck/SQL-SLSS_Report)  
+✅ **Power BI Project**: [Power BI Self](https://github.com/dinesh008luck/Power-BI-Self)  
+✅ **Python Project**: [First ML Pipeline Project](https://github.com/dinesh008luck/First-ML-Pipe-Line-Project-v.01)  
 
 ---
 
