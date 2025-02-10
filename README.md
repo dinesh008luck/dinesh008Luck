@@ -42,9 +42,9 @@ My expertise includes **ETL processes, Data Cleaning, Database Architecture Desi
 🔹 Prepared reports for **Core Group Meetings**.  
 🔹 Monitored **performance metrics (DSR & EBR)** & analyzed sales.  
 
-### **📌 AUDIT EXECUTIVE | Spare Care Solution, Delhi**  
+### **📌 EXECUTIVE | Synchronized Supply Systems Ltd, Delhi**  
 *Aug 2016 – Feb 2019*  
-**(Inventory Management & Auditing for Auto Dealerships)**  
+**(Inventory Management & Inventory Auditing )**  
 🔹 Conducted **on-site audits** for spare parts inventory.  
 🔹 Optimized warehouse **inventory categorization**.  
 🔹 Compiled **audit reports** with actionable insights.  
