@@ -102,7 +102,7 @@ My expertise includes **ETL processes, Data Cleaning, Database Architecture Desi
 
 ## 💡 Projects
 ✅ **SQL Project**: [SQL-SLSS Report](https://github.com/dinesh008luck/SQL-SLSS_Report)  
-✅ **Power BI Project**: [Power BI Self](https://github.com/dinesh008luck/Power-BI-Self)  
+✅ **Power BI Project**: [Power-BI-Public](https://github.com/dinesh008luck/Power-BI-Public) 
 ✅ **Python Project**: [First ML Pipeline Project](https://github.com/dinesh008luck/First-ML-Pipe-Line-Project-v.01)  
 
 ---
