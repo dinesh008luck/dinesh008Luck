@@ -109,8 +109,6 @@ My expertise includes **ETL processes, Data Cleaning, Database Architecture Desi
 🚀 **Let's Connect & Collaborate!**
 
 📩 Email: [Send Mail](mailto:dinesh008luck@gmail.com)  
-📞 [Call Me](tel:+918800801721)  
-💬 [WhatsApp Me](https://wa.me/+918800801721)  
 🔗 GitHub: [GitHub Profile](https://github.com/dinesh008luck)  
 🔗 LinkedIn: [LinkedIn Profile](http://www.linkedin.com/in/dinesh-kumar-dbms52012a)  
 
