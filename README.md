@@ -1,5 +1,5 @@
 # 👋 Dinesh Kumar 
-## 📊 Data Analyst & BI Specialist
+## 📊 Sr. Data Analyst
 
 ## 👨‍💻 Professional Profile
 With **8 years of experience** in data management, analysis, and visualization, I specialize in working with large datasets to deliver **actionable insights**. Skilled in **Power BI, SQL, and Excel**, I create clear, impactful dashboards and reports that meet business needs.
@@ -9,7 +9,7 @@ My expertise includes **ETL processes, Data Cleaning, Database Architecture Desi
 ---
 
 ## 🏢 Work Experience
-### **📌 MIS & BI-ANALYTICS | Shri Lakshmi Steel Suppliers, Bangalore**  
+### **📌 SR. ANALYTICS | Shri Lakshmi Steel Suppliers, Bangalore**  
 *Mar 2023 - Present*  
 **(Suppliers of Steel Products, TMT Bars, etc.)**  
 🔹 Reporting directly to the MD, delivering accurate and timely reports.  
